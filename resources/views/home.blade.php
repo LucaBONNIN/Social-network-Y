@@ -15,6 +15,10 @@
 </head>
 
 <body class="min-h-screen flex flex-col bg-base-200 font-sans">
+
+<p>This is your brand new Laravel app. Time to make it sing (or chirp)!</p>
+<p class="mt-2 text-sm text-gray-600">Now this is live on the internet! 🎉</p>
+
 <nav class="navbar bg-base-100">
     <div class="navbar-start">
         <a href="/" class="btn btn-ghost text-xl">🐦 Y</a>
